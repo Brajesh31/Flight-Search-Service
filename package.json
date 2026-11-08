@@ -17,7 +17,7 @@
     "mysql2": "^3.14.0",
     "node-cron": "^4.1.1",
     "nodemon": "^3.1.9",
-    "sequelize": "^6.37.7"
+    "sequelize": "^6.37.8"
   },
   "devDependencies": {
     "sequelize-cli": "^6.6.2"
